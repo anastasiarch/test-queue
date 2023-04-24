@@ -1,0 +1,21 @@
+[
+    {
+      "brand": "Toyota",
+      "model": "Corolla",
+      "doors": 4,
+      "sports_car": false
+    },
+    {
+      "brand": "Ford",
+      "model": "Mustang",
+      "doors": 2,
+      "sports_car": true
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model S",
+      "doors": 4,
+      "sports_car": true
+    }
+  ]
+  
