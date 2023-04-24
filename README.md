@@ -43,9 +43,9 @@ The required packages to run this project can be easily installed
 To run test, run the following command
 
 ```bash
-  python main.py
+  python main.py --name my_queue
 ```
-
+Replace <my_queue> with the name you want to give to the queue. This will create a new queue with the given name, produce messages to it, consume the messages, and then delete the queue.
 
 
 ## Demo Scenario
